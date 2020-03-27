@@ -1,11 +1,11 @@
 {
-	"name": "Puzzle",
-	"short_name": "Puzzle",
+	"name": "Rolling ball",
+	"short_name": "Rolling ball",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
-	"background_color": "#f9005f",
+	"orientation": "any",
+	"background_color": "#ffffff",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
@@ -18,8 +18,8 @@
 			"type": "image/png"
 		},
 		{
-			"src": "icons/icon-64.png",
-			"sizes": "64x64",
+			"src": "icons/icon-114.png",
+			"sizes": "114x114",
 			"type": "image/png"
 		},
 		{
@@ -30,11 +30,6 @@
 		{
 			"src": "icons/icon-256.png",
 			"sizes": "256x256",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-512.png",
-			"sizes": "512x512",
 			"type": "image/png"
 		}
 	]
